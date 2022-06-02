@@ -1,2 +1,3 @@
 # AoTTG-Tools
- Just to add custom colors to kill objects ._.
+ Just to add custom colors on
+kill objects ._.
